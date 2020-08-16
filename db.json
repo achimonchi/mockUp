@@ -1,0 +1,54 @@
+{
+  "kelas" : [
+        {
+            name : "IT",
+            listClass : [
+                {
+                    id:"fundamental_programming",
+                    nameClass : "Fundamental Programming",
+                    price : "350000",
+                    desc : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    img : "programming.webp",
+                    footer : "Cocok untuk pemula",
+                    promo: "450000"
+                },
+                {
+                    id:"fullstack_developer",
+                    nameClass : "Fullstack Developer",
+                    price : "450000",
+                    desc : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    img : "codeigniter.webp",
+                    footer : "Mempunyai basic programming",
+                    promo: "550000"
+                },
+                {
+                    id:"fullstack_design",
+                    nameClass : "Fullstack Designer",
+                    price : "300000",
+                    desc : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    img : "fullstack-designer.webp",
+                    footer : "Cocok untuk pemula",
+                    promo: "450000"
+                },
+                {
+                    id:"mern",
+                    nameClass : "MERN Stack",
+                    price : "550000",
+                    desc : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    img : "mern.webp",
+                    footer : "Mempunyai basic programming",
+                    promo: "700000"
+                },
+                {
+                    id:"go",
+                    nameClass : "Golang Stack",
+                    price : "550000",
+                    desc : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    img : "golang.webp",
+                    footer : "Mempunyai basic programming",
+                    promo: "700000"
+                }
+            ]
+        }
+    ]
+}
