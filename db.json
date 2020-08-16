@@ -60,7 +60,7 @@
             "img" : "programming.webp",
             "footer" : "Cocok untuk pemula",
             "promo": "450000",
-            "mainTopics" : ["HTML", "CSS", "Bootstrap", "Javascript", "PHP", "MySQL", "MVC"],
+            "mainTopics" : ["HTML", "CSS", "Bootstrap", "Javascript", "PHP", "MySQL"],
             "silabus" : [
                 {
                     "title" : "Berkenalan Dengan HTML",
@@ -69,6 +69,30 @@
                 {
                     "title" : "Styling dengan CSS",
                     "topics" : ["Inline CSS", "Outline CSS", "Layout", "Attribute" ,"Responsive"]
+                },
+                {
+                    "title" : "Mengenal Bootstrap",
+                    "topics" : ["Layout", "Component", "Grid System"]
+                },
+                {
+                    "title" : "Pengenalan Javascript",
+                    "topics" : ["Variable", "Styling", "DOM", "JQuery"]
+                },
+                {
+                    "title" : "Micro Interaction",
+                    "topics" : ["Parallax", "Landing Element"]
+                },
+                {
+                    "title" : "Pengenalan Database",
+                    "topics" : ["Pengenalan Entity Relationship Diagram","Diagram Chen", "Diagram Crows Foot"]
+                },
+                {
+                    "title" : "Database Menggunakan MySQL",
+                    "topics" : ["Pengenalan MySQL", "DDL (Data Definition Language)", "DML (Data Manipulation Language)", "Query SQL", "Macam macam Join", ""]
+                },
+                {
+                    "title" : "PHP",
+                    "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Object Oriented", "Model View Controller"]
                 }
             ]
         },
