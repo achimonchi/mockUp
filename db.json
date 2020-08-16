@@ -7,7 +7,7 @@
                     "id":"fundamental_programming",
                     "nameClass" : "Fundamental Programming",
                     "price" : "350000",
-                    "desc" : "Kelas Fundamental Programming adalah sebuah kelas yang ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
+                    "desc" : "Programer, merupakan sebuah pekerjaan yang bertugas untuk memecahkan suatu masalah menggunakan kode / bahasa pemrograman. Di era industri 4.0, yang merupakan era-nya teknologi, maka pekerjaan sebagai Programmer pun akan banyak dibutuhkan. Oleh sebab itu, Kelas Fundamental Programming ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
                     "img" : "programming.webp",
                     "footer" : "Cocok untuk pemula",
                     "promo": "450000"
@@ -16,7 +16,7 @@
                     "id":"fullstack_developer",
                     "nameClass" : "Fullstack Developer",
                     "price" : "450000",
-                    "desc" : "Kelas Fullstack Developer adalah sebuah kelas yang ditujukan buat kamu yang telah menguasai skill Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas lanjutan, yang mana pada kelas ini kamu akan berkenalan dengan Framework, bagaimana cara bekerja dalam suatu tim, dan lain lain",
+                    "desc" : "PHP adalah bahasa pemrograman yang paling banyak digunakan oleh perusahaan di indonesia saat ini. Kelas Fullstack Developer adalah sebuah kelas yang ditujukan buat kamu yang telah menguasai skill Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas lanjutan, yang mana pada kelas ini kamu akan berkenalan dengan Framework, bagaimana cara bekerja dalam suatu tim, dan lain lain",
                     "img" : "codeigniter.webp",
                     "footer" : "Mempunyai basic programming",
                     "promo": "550000"
@@ -25,7 +25,7 @@
                     "id":"fullstack_design",
                     "nameClass" : "Fullstack Designer",
                     "price" : "300000",
-                    "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    "desc" : "UI/UX di Indonesia sedang sangat berkembang saat ini. Banyak perusahaan yang mencari role UI dan UX, karena role tersebut mampu menciptakan sebuah Design yang menarik dan user-friendly. Kelas Fullstack Designer adalah sebuah kelas yang ditujukan untuk kamu yang ingin menjadi seorang UI/UX Designer, ataupun Frontend Developer. Kelas ini merupakan kelas basic, yang cocok buat kamu meski belum mengenal dunia pemrograman. Pada kelas ini, fokus utama adalah membuat aplikasi yang menarik, dari sisi User Interface.",
                     "img" : "fullstack-designer.webp",
                     "footer" : "Cocok untuk pemula",
                     "promo": "450000"
@@ -34,7 +34,7 @@
                     "id":"mern",
                     "nameClass" : "MERN Stack",
                     "price" : "550000",
-                    "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    "desc" : "MERN Stack (MongoDB, Express, ReactJS, NodeJS) adalah sebuah Stack yang sangat populer di kalangan programmer. Baik MERN Stack ataupun Single Stacknya, banyak digunakan oleh perusahaan besar seperti Twitter, Netflix, Ruang Guru, dan lain lain. Kelas MERN Stack adalah sebuah kelas yang ditujukan buat kamu yang telah menguasai Javascript atau Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas lanjutan, yang mana kamu akan berkenalan dengan Stack dari javascript. Pada kelas ini, akan membahas proses pembuatan aplikasi menggunakan Full Javascript / Fullstack Javascript.",
                     "img" : "mern.webp",
                     "footer" : "Mempunyai basic programming",
                     "promo": "700000"
@@ -43,7 +43,7 @@
                     "id":"go",
                     "nameClass" : "Golang Stack",
                     "price" : "550000",
-                    "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    "desc" : "Golang merupakan salah satu bahasa pemrograman terpopuler, terbukti dengan beberapa startup yang telah menggunakan teknologi ini, seperti Google, Tokopedia, Bukalapak, dan lain lain. Kelas Golang Stack hadir, yang merupakan sebuah kelas yang ditujukan buat kamu yang telah menguasai skill Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas Advanced, yang mana kamu harus mempunyai basic programming yang kuat.",
                     "img" : "golang.webp",
                     "footer" : "Mempunyai basic programming",
                     "promo": "700000"
@@ -56,7 +56,7 @@
             "id":"fundamental_programming",
             "nameClass" : "Fundamental Programming",
             "price" : "350000",
-            "desc" : "Kelas Fundamental Programming adalah sebuah kelas yang ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
+            "desc" : "Programer, merupakan sebuah pekerjaan yang bertugas untuk memecahkan suatu masalah menggunakan kode / bahasa pemrograman. Di era industri 4.0, yang merupakan era-nya teknologi, maka pekerjaan sebagai Programmer pun akan banyak dibutuhkan. Oleh sebab itu, Kelas Fundamental Programming ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
             "img" : "programming.webp",
             "footer" : "Cocok untuk pemula",
             "promo": "450000",
@@ -64,35 +64,35 @@
             "silabus" : [
                 {
                     "title" : "Berkenalan Dengan HTML",
-                    "topics" : ["Basic HTML", "Pengenalan Tag", "Struktur Dasar", "Tag Penting yang harus dimiliki."]
+                    "topics" : ["Basic HTML", "Pengenalan Tag", "Struktur Dasar", "Tag Penting yang harus dimiliki.", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Styling dengan CSS",
-                    "topics" : ["Inline CSS", "Outline CSS", "Layout", "Attribute" ,"Responsive"]
+                    "topics" : ["Inline CSS", "Outline CSS", "Layout", "Responsive", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Mengenal Bootstrap",
-                    "topics" : ["Layout", "Component", "Grid System"]
+                    "topics" : ["Layout", "Component", "Grid System", "Responsive" , "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Pengenalan Javascript",
-                    "topics" : ["Variable", "Styling", "DOM", "JQuery"]
+                    "topics" : ["Variable", "Styling", "DOM", "JQuery", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Micro Interaction",
-                    "topics" : ["Parallax", "Landing Element"]
+                    "topics" : ["Parallax", "Landing Element", "Alert", "Sticky" ,"Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Pengenalan Database",
-                    "topics" : ["Pengenalan Entity Relationship Diagram","Diagram Chen", "Diagram Crows Foot"]
+                    "topics" : ["Pengenalan Entity Relationship Diagram","Diagram Chen", "Diagram Crows Foot", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Database Menggunakan MySQL",
-                    "topics" : ["Pengenalan MySQL", "DDL (Data Definition Language)", "DML (Data Manipulation Language)", "Query SQL", "Macam macam Join", ""]
+                    "topics" : ["Pengenalan MySQL", "DDL (Data Definition Language)", "DML (Data Manipulation Language)", "Query SQL", "Macam macam Join", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "PHP",
-                    "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Object Oriented", "Model View Controller"]
+                    "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Dan yang lainnya ..."]
                 }
             ]
         },
@@ -100,7 +100,7 @@
             "id":"fullstack_developer",
             "nameClass" : "Fullstack Developer",
             "price" : "450000",
-            "desc" : "Kelas Fullstack Developer adalah sebuah kelas yang ditujukan buat kamu yang telah menguasai skill Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas lanjutan, yang mana pada kelas ini kamu akan berkenalan dengan Framework, bagaimana cara bekerja dalam suatu tim, dan lain lain.",
+            "desc" : "PHP adalah bahasa pemrograman yang paling banyak digunakan oleh perusahaan di indonesia saat ini. Kelas Fullstack Developer adalah sebuah kelas yang ditujukan buat kamu yang telah menguasai skill Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas lanjutan, yang mana pada kelas ini kamu akan berkenalan dengan Framework, bagaimana cara bekerja dalam suatu tim, dan lain lain",
             "img" : "codeigniter.webp",
             "footer" : "Mempunyai basic programming",
             "promo": "550000",
@@ -108,11 +108,11 @@
             "silabus" : [
                 {
                     "title" : "Mengingat Fundamental Programming",
-                    "topics" : ["Berkenalan Dengan HTML", "Styling dengan CSS"]
+                    "topics" : ["Berkenalan Dengan HTML", "Styling dengan CSS", "Menggunakan Bootstrap", "Koneksi ke Database", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Model View Controller",
-                    "topics" : ["Pengenalan Model", "Pengenalan View", "Pengenalan Controller"]
+                    "topics" : ["Mengulang Object Oriented Programming","Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
                 }
             ]
         },
@@ -120,28 +120,99 @@
             "id":"fullstack_design",
             "nameClass" : "Fullstack Designer",
             "price" : "300000",
-            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+            "desc" : "UI/UX di Indonesia sedang sangat berkembang saat ini. Banyak perusahaan yang mencari role UI dan UX, karena role tersebut mampu menciptakan sebuah Design yang menarik dan user-friendly. Kelas Fullstack Designer adalah sebuah kelas yang ditujukan untuk kamu yang ingin menjadi seorang UI/UX Designer, ataupun Frontend Developer. Kelas ini merupakan kelas basic, yang cocok buat kamu meski belum mengenal dunia pemrograman. Pada kelas ini, fokus utama adalah membuat aplikasi yang menarik, dari sisi User Interface.",
             "img" : "fullstack-designer.webp",
             "footer" : "Cocok untuk pemula",
-            "promo": "450000"
+            "promo": "450000",
+            "mainTopics" : ["HTML", "CSS", "Bootstrap", "Javascript", "Figma"],
+            "silabus" : [
+                {
+                    "title" : "Berkenalan Dengan HTML",
+                    "topics" : ["Basic HTML", "Pengenalan Tag", "Struktur Dasar", "Tag Penting yang harus dimiliki.", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Styling dengan CSS",
+                    "topics" : ["Inline CSS", "Outline CSS", "Layout", "Responsive", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Mengenal Bootstrap",
+                    "topics" : ["Layout", "Component", "Grid System", "Responsive" , "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Pengenalan Javascript",
+                    "topics" : ["Variable", "Styling", "DOM", "JQuery", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Micro Interaction",
+                    "topics" : ["Parallax", "Landing Element", "Alert", "Sticky" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "UI / UX",
+                    "topics" : ["Pengenalan Design", "Pengenalan User Interface", "Pengenalan User Experience", "Wireframing" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Figma",
+                    "topics" : ["Pengenalan Figma", "Design Grafis menggunakan Figma", "Membuat UI Kit", "Membuat Prototyping" ,"Dan yang lainnya ..."]
+                }
+            ]
         },
         {
             "id":"mern",
             "nameClass" : "MERN Stack",
             "price" : "550000",
-            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+            "desc" : "MERN Stack (MongoDB, Express, ReactJS, NodeJS) adalah sebuah Stack yang sangat populer di kalangan programmer. Baik MERN Stack ataupun Single Stacknya, banyak digunakan oleh perusahaan besar seperti Twitter, Netflix, Ruang Guru, dan lain lain. Kelas MERN Stack adalah sebuah kelas yang ditujukan buat kamu yang telah menguasai Javascript atau Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas lanjutan, yang mana kamu akan berkenalan dengan Stack dari javascript. Pada kelas ini, akan membahas proses pembuatan aplikasi menggunakan Full Javascript / Fullstack Javascript.",
             "img" : "mern.webp",
             "footer" : "Mempunyai basic programming",
-            "promo": "700000"
+            "promo": "700000",
+            "mainTopics" : ["Javascript", "MongoDB", "Express","ReactJS", "NodeJS"],
+            "silabus" : [
+                {
+                    "title" : "Mengingat Javascript",
+                    "topics" : ["Manipulasi HTML dan Style menggunakan DOM", "Membuat dan Menggunakan Module", "Request ke server menggunakan Ajax", "Ecmascript 6", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Databases MongoDB",
+                    "topics" : ["Pengenalan NoSQL","Pengenalan MongoDB", "Query pada MongoDB", "Schema", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Node JS",
+                    "topics" : ["Pengenalan NodeJS", "Modul Pada NodeJS", "Routing", "Request" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Express",
+                    "topics" : ["Pengenalan Express", "Pengenalan NPM", "Routing", "Request" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "React JS",
+                    "topics" : ["Pengenalan React JS", "React CRA", "Statefull", "Stateless" ,"Dan yang lainnya ..."]
+                }
+                
+            ]
+            
         },
         {
             "id":"go",
             "nameClass" : "Golang Stack",
             "price" : "550000",
-            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+            "desc" : "Golang merupakan salah satu bahasa pemrograman terpopuler, terbukti dengan beberapa startup yang telah menggunakan teknologi ini, seperti Google, Tokopedia, Bukalapak, dan lain lain. Kelas Golang Stack hadir, yang merupakan sebuah kelas yang ditujukan buat kamu yang telah menguasai skill Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas Advanced, yang mana kamu harus mempunyai basic programming yang kuat.",
             "img" : "golang.webp",
             "footer" : "Mempunyai basic programming",
-            "promo": "700000"
+            "promo": "700000",
+            "mainTopics" : ["Golang", "Database", "REST API"],
+            "silabus" : [
+                {
+                    "title" : "Pengenalan Golang",
+                    "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Membuat Web Server",
+                    "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Database (PostgreSQL dan MongoDB)",
+                    "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
+                }
+            ]
         }
     ]
 
