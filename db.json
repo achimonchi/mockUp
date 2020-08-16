@@ -7,7 +7,7 @@
                     "id":"fundamental_programming",
                     "nameClass" : "Fundamental Programming",
                     "price" : "350000",
-                    "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+                    "desc" : "Kelas Fundamental Programming adalah sebuah kelas yang ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
                     "img" : "programming.webp",
                     "footer" : "Cocok untuk pemula",
                     "promo": "450000"
@@ -56,19 +56,41 @@
             "id":"fundamental_programming",
             "nameClass" : "Fundamental Programming",
             "price" : "350000",
-            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+            "desc" : "Kelas Fundamental Programming adalah sebuah kelas yang ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
             "img" : "programming.webp",
             "footer" : "Cocok untuk pemula",
-            "promo": "450000"
+            "promo": "450000",
+            "mainTopics" : ["HTML", "CSS", "Bootstrap", "Javascript", "PHP", "MySQL", "MVC"],
+            "silabus" : [
+                {
+                    "title" : "Berkenalan Dengan HTML",
+                    "topics" : ["Basic HTML", "Pengenalan Tag", "Struktur Dasar", "Tag Penting yang harus dimiliki."]
+                },
+                {
+                    "title" : "Styling dengan CSS",
+                    "topics" : ["Inline CSS", "Outline CSS", "Layout", "Attribute" ,"Responsive"]
+                }
+            ]
         },
         {
             "id":"fullstack_developer",
             "nameClass" : "Fullstack Developer",
             "price" : "450000",
-            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique pretium senectus purus.",
+            "desc" : "Kelas Fullstack Developer adalah sebuah kelas yang ditujukan buat kamu yang telah menguasai skill Programming Dasar / Fundamental Programming. Kelas ini merupakan kelas lanjutan, yang mana pada kelas ini kamu akan berkenalan dengan Framework, bagaimana cara bekerja dalam suatu tim, dan lain lain.",
             "img" : "codeigniter.webp",
             "footer" : "Mempunyai basic programming",
-            "promo": "550000"
+            "promo": "550000",
+            "mainTopics" : ["Fundamental Programming", "Framework Codeigniter", "GIT", "REST API", "MySQL"],
+            "silabus" : [
+                {
+                    "title" : "Mengingat Fundamental Programming",
+                    "topics" : ["Berkenalan Dengan HTML", "Styling dengan CSS"]
+                },
+                {
+                    "title" : "Model View Controller",
+                    "topics" : ["Pengenalan Model", "Pengenalan View", "Pengenalan Controller"]
+                }
+            ]
         },
         {
             "id":"fullstack_design",
