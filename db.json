@@ -41,6 +41,10 @@
                 {
                     "title" : "PHP",
                     "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Studi kasus",
+                    "topics" : ["Locked ... "]
                 }
             ]
         },
@@ -59,8 +63,24 @@
                     "topics" : ["Berkenalan Dengan HTML", "Styling dengan CSS", "Menggunakan Bootstrap", "Koneksi ke Database", "Dan yang lainnya ..." ]
                 },
                 {
+                    "title" : "PHP Lanjutan",
+                    "topics" : ["Object Oriented Programming","Pengenalan Class dan Object", "Inheritence", "Setter dan Getter", "Dan yang lainnya ..."]
+                },
+                {
                     "title" : "Model View Controller",
-                    "topics" : ["Mengulang Object Oriented Programming","Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
+                    "topics" : ["Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Routing" , "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Framework Codeigniter",
+                    "topics" : ["Pengenalan Codeigniter", "Migrasi dari MVC ke Framework", "Templateing", "Layouting" , "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "REST API",
+                    "topics" : ["Pengenalan REST API", "HTTP Request", "Postman", "Routing" , "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Studi kasus",
+                    "topics" : ["Locked ... "]
                 }
             ]
         },
@@ -101,6 +121,10 @@
                 {
                     "title" : "Figma",
                     "topics" : ["Pengenalan Figma", "Design Grafis menggunakan Figma", "Membuat UI Kit", "Membuat Prototyping" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Studi kasus",
+                    "topics" : ["Locked ... "]
                 }
             ]
         },
@@ -133,6 +157,10 @@
                 {
                     "title" : "React JS",
                     "topics" : ["Pengenalan React JS", "React CRA", "Statefull", "Stateless" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Studi kasus",
+                    "topics" : ["Locked ... "]
                 }
                 
             ]
@@ -153,13 +181,26 @@
                     "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
                 },
                 {
-                    "title" : "Membuat Web Server",
+                    "title" : "Golang for Web",
                     "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Database (PostgreSQL dan MongoDB)",
                     "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Golang Lanjutan",
+                    "topics" : ["Goroutine", "Channel", "Auth", "Web Service", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Design Pattern",
+                    "topics" : ["Pengenalan Design Pattern", "Macam macam design pattern", "Implementasi Design Pattern", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Studi kasus",
+                    "topics" : ["Locked ... "]
                 }
+                
             ]
         }
     ]
