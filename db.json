@@ -35,10 +35,6 @@
                     "topics" : ["Pengenalan Entity Relationship Diagram","Diagram Chen", "Diagram Crows Foot", "Dan yang lainnya ..."]
                 },
                 {
-                    "title" : "Database Menggunakan MySQL",
-                    "topics" : ["Pengenalan MySQL", "DDL (Data Definition Language)", "DML (Data Manipulation Language)", "Query SQL", "Macam macam Join", "Dan yang lainnya ..."]
-                },
-                {
                     "title" : "PHP",
                     "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Dan yang lainnya ..."]
                 },
@@ -187,10 +183,6 @@
                 {
                     "title" : "Database (PostgreSQL dan MongoDB)",
                     "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
-                },
-                {
-                    "title" : "Golang Lanjutan",
-                    "topics" : ["Goroutine", "Channel", "Auth", "Web Service", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Design Pattern",
