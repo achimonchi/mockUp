@@ -139,10 +139,6 @@
                     "topics" : ["Manipulasi HTML dan Style menggunakan DOM", "Membuat dan Menggunakan Module", "Request ke server menggunakan Ajax", "Ecmascript 6", "Dan yang lainnya ..." ]
                 },
                 {
-                    "title" : "Databases MongoDB",
-                    "topics" : ["Pengenalan NoSQL","Pengenalan MongoDB", "Query pada MongoDB", "Schema", "Dan yang lainnya ..."]
-                },
-                {
                     "title" : "Node JS",
                     "topics" : ["Pengenalan NodeJS", "Modul Pada NodeJS", "Routing", "Request" ,"Dan yang lainnya ..."]
                 },
@@ -153,6 +149,10 @@
                 {
                     "title" : "React JS",
                     "topics" : ["Pengenalan React JS", "React CRA", "Statefull", "Stateless" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Databases MongoDB",
+                    "topics" : ["Pengenalan NoSQL","Pengenalan MongoDB", "Query pada MongoDB", "Schema", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Studi kasus",
@@ -183,10 +183,6 @@
                 {
                     "title" : "Database (PostgreSQL dan MongoDB)",
                     "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
-                },
-                {
-                    "title" : "Design Pattern",
-                    "topics" : ["Pengenalan Design Pattern", "Macam macam design pattern", "Implementasi Design Pattern", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Studi kasus",
