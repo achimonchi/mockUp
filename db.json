@@ -4,7 +4,7 @@
             "id":"fundamental_programming",
             "nameClass" : "Fundamental Programming",
             "price" : "350000",
-            "desc" : "Programer, merupakan sebuah pekerjaan yang bertugas untuk memecahkan suatu masalah menggunakan kode / bahasa pemrograman. Di era industri 4.0, yang merupakan era-nya teknologi, maka pekerjaan sebagai Programmer pun akan banyak dibutuhkan. Oleh sebab itu, Kelas Fundamental Programming ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
+            "desc" : "Programer adalah sebuah pekerjaan yang bertugas untuk memecahkan suatu masalah menggunakan kode. Di era industri 4.0, yang merupakan era-nya teknologi, pekerjaan sebagai Programmer pun akan banyak dibutuhkan. Oleh sebab itu, Kelas Fundamental Programming ditujukan untuk kamu yang masih awam terhadap dunia pemrograman. Pada kelas ini, kamu akan mendapatkan ilmu tentang Fundamental Dunia Pemrograman, hingga kamu mampu untuk membuat Aplikasi sendiri.",
             "img" : "programming.webp",
             "footer" : "Cocok untuk pemula",
             "promo": "450000",
@@ -27,20 +27,16 @@
                     "topics" : ["Variable", "Styling", "DOM", "JQuery", "Dan yang lainnya ..."]
                 },
                 {
-                    "title" : "Micro Interaction",
-                    "topics" : ["Parallax", "Landing Element", "Alert", "Sticky" ,"Dan yang lainnya ..."]
-                },
-                {
                     "title" : "Pengenalan Database",
-                    "topics" : ["Pengenalan Entity Relationship Diagram","Diagram Chen", "Diagram Crows Foot", "Dan yang lainnya ..."]
-                },
-                {
-                    "title" : "Database Menggunakan MySQL",
-                    "topics" : ["Pengenalan MySQL", "DDL (Data Definition Language)", "DML (Data Manipulation Language)", "Query SQL", "Macam macam Join", "Dan yang lainnya ..."]
+                    "topics" : ["Pengenalan Entity Relationship Diagram","Jenis Diagram", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "PHP",
                     "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Locked ...",
+                    "topics" : ["Locked ..."]
                 }
             ]
         },
@@ -55,12 +51,16 @@
             "mainTopics" : ["Fundamental Programming", "Framework Codeigniter", "GIT", "REST API", "MySQL"],
             "silabus" : [
                 {
-                    "title" : "Mengingat Fundamental Programming",
+                    "title" : "Fundamental Programming",
                     "topics" : ["Berkenalan Dengan HTML", "Styling dengan CSS", "Menggunakan Bootstrap", "Koneksi ke Database", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Model View Controller",
                     "topics" : ["Mengulang Object Oriented Programming","Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Locked ...",
+                    "topics" : ["Locked ..."]
                 }
             ]
         },
@@ -91,16 +91,16 @@
                     "topics" : ["Variable", "Styling", "DOM", "JQuery", "Dan yang lainnya ..."]
                 },
                 {
-                    "title" : "Micro Interaction",
-                    "topics" : ["Parallax", "Landing Element", "Alert", "Sticky" ,"Dan yang lainnya ..."]
-                },
-                {
                     "title" : "UI / UX",
                     "topics" : ["Pengenalan Design", "Pengenalan User Interface", "Pengenalan User Experience", "Wireframing" ,"Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Figma",
                     "topics" : ["Pengenalan Figma", "Design Grafis menggunakan Figma", "Membuat UI Kit", "Membuat Prototyping" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Locked ...",
+                    "topics" : ["Locked ..."]
                 }
             ]
         },
@@ -133,6 +133,10 @@
                 {
                     "title" : "React JS",
                     "topics" : ["Pengenalan React JS", "React CRA", "Statefull", "Stateless" ,"Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Locked ...",
+                    "topics" : ["Locked ..."]
                 }
                 
             ]
@@ -159,6 +163,10 @@
                 {
                     "title" : "Database (PostgreSQL dan MongoDB)",
                     "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Locked ...",
+                    "topics" : ["Locked ..."]
                 }
             ]
         }
