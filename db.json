@@ -12,7 +12,7 @@
             "silabus" : [
                 {
                     "title" : "Berkenalan Dengan HTML",
-                    "topics" : ["Basic HTML", "Pengenalan Tag", "Struktur Dasar", "Tag Penting yang harus dimiliki.", "Dan yang lainnya ..."]
+                    "topics" : ["Basic HTML", "Tag", "Struktur Dasar", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Styling dengan CSS",
@@ -28,14 +28,14 @@
                 },
                 {
                     "title" : "Pengenalan Database",
-                    "topics" : ["Pengenalan Entity Relationship Diagram","Jenis Diagram", "Dan yang lainnya ..."]
+                    "topics" : ["Pengenalan ERD","Jenis Diagram", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "PHP",
-                    "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Dan yang lainnya ..."]
+                    "topics" : ["Variable", "Looping", "Branch", "Array", "Dan yang lainnya ..."]
                 },
                 {
-                    "title" : "Locked ...",
+                    "title" : "Studi Kasus",
                     "topics" : ["Locked ..."]
                 }
             ]
@@ -52,14 +52,18 @@
             "silabus" : [
                 {
                     "title" : "Fundamental Programming",
-                    "topics" : ["Berkenalan Dengan HTML", "Styling dengan CSS", "Menggunakan Bootstrap", "Koneksi ke Database", "Dan yang lainnya ..." ]
+                    "topics" : ["Pengenalan HTML", "Styling dengan CSS", "Bootstrap", "Koneksi ke Database", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Object Oriented Programming",
+                    "topics" : ["Pengenalan OOP", "Class", "Method dan Function",  "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Model View Controller",
-                    "topics" : ["Mengulang Object Oriented Programming","Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
+                    "topics" : ["Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
                 },
                 {
-                    "title" : "Locked ...",
+                    "title" : "Studi Kasus",
                     "topics" : ["Locked ..."]
                 }
             ]
@@ -76,7 +80,7 @@
             "silabus" : [
                 {
                     "title" : "Berkenalan Dengan HTML",
-                    "topics" : ["Basic HTML", "Pengenalan Tag", "Struktur Dasar", "Tag Penting yang harus dimiliki.", "Dan yang lainnya ..."]
+                    "topics" : ["Basic HTML", "Tag", "Struktur Dasar", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Styling dengan CSS",
@@ -92,14 +96,14 @@
                 },
                 {
                     "title" : "UI / UX",
-                    "topics" : ["Pengenalan Design", "Pengenalan User Interface", "Pengenalan User Experience", "Wireframing" ,"Dan yang lainnya ..."]
+                    "topics" : ["Pengenalan Design", "User Interface", "User Experience", "Wireframing" ,"Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Figma",
                     "topics" : ["Pengenalan Figma", "Design Grafis menggunakan Figma", "Membuat UI Kit", "Membuat Prototyping" ,"Dan yang lainnya ..."]
                 },
                 {
-                    "title" : "Locked ...",
+                    "title" : "Studi Kasus",
                     "topics" : ["Locked ..."]
                 }
             ]
@@ -135,7 +139,7 @@
                     "topics" : ["Pengenalan React JS", "React CRA", "Statefull", "Stateless" ,"Dan yang lainnya ..."]
                 },
                 {
-                    "title" : "Locked ...",
+                    "title" : "Studi Kasus",
                     "topics" : ["Locked ..."]
                 }
                 
@@ -165,7 +169,7 @@
                     "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
                 },
                 {
-                    "title" : "Locked ...",
+                    "title" : "Studi Kasus",
                     "topics" : ["Locked ..."]
                 }
             ]
