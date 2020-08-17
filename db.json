@@ -35,6 +35,10 @@
                     "topics" : ["Pengenalan Entity Relationship Diagram","Diagram Chen", "Diagram Crows Foot", "Dan yang lainnya ..."]
                 },
                 {
+                    "title" : "Database Menggunakan MySQL",
+                    "topics" : ["Pengenalan MySQL", "DDL (Data Definition Language)", "DML (Data Manipulation Language)", "Query SQL", "Macam macam Join", "Dan yang lainnya ..."]
+                },
+                {
                     "title" : "PHP",
                     "topics" : ["Variable", "Looping", "Branch / Decision", "Array", "Dan yang lainnya ..."]
                 }
@@ -55,20 +59,8 @@
                     "topics" : ["Berkenalan Dengan HTML", "Styling dengan CSS", "Menggunakan Bootstrap", "Koneksi ke Database", "Dan yang lainnya ..." ]
                 },
                 {
-                    "title" : "PHP Lanjutan",
-                    "topics" : ["Object Oriented Programming","Pengenalan Class dan Object", "Inheritence", "Setter dan Getter", "Dan yang lainnya ..."]
-                },
-                {
                     "title" : "Model View Controller",
-                    "topics" : ["Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Routing" , "Dan yang lainnya ..."]
-                },
-                {
-                    "title" : "Framework Codeigniter",
-                    "topics" : ["Pengenalan Codeigniter", "Migrasi dari MVC ke Framework", "Templateing", "Layouting" , "Dan yang lainnya ..."]
-                },
-                {
-                    "title" : "REST API",
-                    "topics" : ["Pengenalan REST API", "HTTP Request", "Postman", "Routing" , "Dan yang lainnya ..."]
+                    "topics" : ["Mengulang Object Oriented Programming","Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
                 }
             ]
         },
@@ -127,6 +119,10 @@
                     "topics" : ["Manipulasi HTML dan Style menggunakan DOM", "Membuat dan Menggunakan Module", "Request ke server menggunakan Ajax", "Ecmascript 6", "Dan yang lainnya ..." ]
                 },
                 {
+                    "title" : "Databases MongoDB",
+                    "topics" : ["Pengenalan NoSQL","Pengenalan MongoDB", "Query pada MongoDB", "Schema", "Dan yang lainnya ..."]
+                },
+                {
                     "title" : "Node JS",
                     "topics" : ["Pengenalan NodeJS", "Modul Pada NodeJS", "Routing", "Request" ,"Dan yang lainnya ..."]
                 },
@@ -137,10 +133,6 @@
                 {
                     "title" : "React JS",
                     "topics" : ["Pengenalan React JS", "React CRA", "Statefull", "Stateless" ,"Dan yang lainnya ..."]
-                },
-                {
-                    "title" : "Databases MongoDB",
-                    "topics" : ["Pengenalan NoSQL","Pengenalan MongoDB", "Query pada MongoDB", "Schema", "Dan yang lainnya ..."]
                 }
                 
             ]
@@ -161,14 +153,13 @@
                     "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
                 },
                 {
-                    "title" : "Golang for Web",
+                    "title" : "Membuat Web Server",
                     "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Database (PostgreSQL dan MongoDB)",
                     "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
                 }
-                
             ]
         }
     ]
