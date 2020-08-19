@@ -55,12 +55,24 @@
                     "topics" : ["Pengenalan HTML", "Styling dengan CSS", "Bootstrap", "Koneksi ke Database", "Dan yang lainnya ..." ]
                 },
                 {
+                    "title" : "Pengenalan Database",
+                    "topics" : ["Pengenalan ERD","Jenis Diagram", "Dan yang lainnya ..."]
+                },
+                {
                     "title" : "Object Oriented Programming",
                     "topics" : ["Pengenalan OOP", "Class", "Method dan Function",  "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Model View Controller",
                     "topics" : ["Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Codeigniter Basic",
+                    "topics" : ["Pengenalan Model", "Pengenalan View", "Pengenalan Controller", "Dan yang lainnya ..."]
+                },
+                {
+                    "title" : "Codeigniter Lanjut",
+                    "topics" : ["Third Party", "Helper", "Session", "Auth", "Dan yang lainnya ..."]
                 },
                 {
                     "title" : "Studi Kasus",
@@ -103,6 +115,10 @@
                     "topics" : ["Pengenalan Figma", "Design Grafis menggunakan Figma", "Membuat UI Kit", "Membuat Prototyping" ,"Dan yang lainnya ..."]
                 },
                 {
+                    "title" : "Micro Interaction",
+                    "topics" : ["Event", "Parallax Effect", "Landing Element", "Dan yang lainnya ..."]
+                },
+                {
                     "title" : "Studi Kasus",
                     "topics" : ["Locked ..."]
                 }
@@ -116,7 +132,7 @@
             "img" : "mern.webp",
             "footer" : "Mempunyai basic programming",
             "promo": "700000",
-            "mainTopics" : ["Javascript", "MongoDB", "Express","ReactJS", "NodeJS"],
+            "mainTopics" : ["Javascript", "MongoDB", "Express","ReactJS", "NodeJS", "GIT"],
             "silabus" : [
                 {
                     "title" : "Mengingat Javascript",
@@ -154,19 +170,40 @@
             "img" : "golang.webp",
             "footer" : "Mempunyai basic programming",
             "promo": "700000",
-            "mainTopics" : ["Golang", "Database", "REST API"],
+            "mainTopics" : ["Golang", "Database", "REST API", "GIT"],
             "silabus" : [
+                {
+                    "title" : "Pengenalan GIT",
+                    "topics" : ["Pengenalan Github", "Registrasi akun Github", "Repository", "Clone", "Dan yang lainnya ..." ]
+                },
                 {
                     "title" : "Pengenalan Golang",
                     "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Membuat Web Server",
-                    "topics" : ["Installasi golang", "Variable", "Tipe Data", "Fungsi", "Dan yang lainnya ..." ]
+                    "topics" : ["Inisialisasi Project","Routing", "HTTP Request", "Template", "Dan yang lainnya ..." ]
                 },
                 {
-                    "title" : "Database (PostgreSQL dan MongoDB)",
-                    "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Install MongoDB", "Membuat Koneksi ke MongoDB", "Dan yang lainnya ..." ]
+                    "title" : "Database PostgreSQL",
+                    "topics" : ["Install PostgreSQL", "Membuat Koneksi ke PostgreSQL", "Query SQL", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Database MongoDB",
+                    "topics" : ["Install MongoDB", "Membuat Koneksi ke MongoDB", "Schema", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "Go lanjut",
+                    "topics" : ["Goroutine", "Channel", "Web Service", "File Stream", "Dan yang lainnya ..." ]
+                },
+
+                {
+                    "title" : "Design Pattern",
+                    "topics" : ["Pengenalan Design Pattern", "Macam macam design pattern", "Query SQL", "Dan yang lainnya ..." ]
+                },
+                {
+                    "title" : "REST API",
+                    "topics" : ["Pengenalan REST API", "HTTP Request", "Postman", "Dan yang lainnya ..." ]
                 },
                 {
                     "title" : "Studi Kasus",
