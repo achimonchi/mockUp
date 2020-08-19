@@ -1,53 +1,23 @@
-version: "3"
+version: "3.4"
 
 services:
-  noobeecamp-db-service:
-    build:
-      context: .
-      dockerfile: dockerfile
-    image: noobeecamp-db-service
-    container_name: noobeecamp-db-services
-    restart: always
-    networks:
-      - app-network
-  
-  webserver:
+  nginx:
     image: nginx
-    container_name: websrever
     restart: always
+    volumes:
+      - ./public_html:/public_html
+      - ./conf.d:/etc/nginx/conf.d
+      - ./dhparam:/etc/nginx/dhparam
+      - ./certbot/conf:/etc/nginx/ssl
+      - ./certbot/data:/usr/share/nginx/html/letsencrypt
     ports:
-      - "9999:80"
-    volumes:
-      - web-root:/var/www/html
-      - ./nginx.conf:/etc/nginx/conf.d
-      - certbot-etc:/etc/letsencrypt
-      - certbot-var:/var/lib/letsencrypt
-    depends_on:
-      - noobeecamp-db-service
-    networks:
-      - app-network
-
+      - 80:80
+      - 443:443  
   certbot:
-    image: certbot/certbot
-    container_name: certbot
+    image: certbot/certbot:latest
+    command: certonly --webroot --webroot-path=/usr/share/nginx/html/letsencrypt --email reyhanjovie01@gmail.com --agree-tos --no-eff-email -d dbcamp.noobee.id
     volumes:
-      - certbot-etc:/etc/letsencrypt
-      - certbot-var:/var/lib/letsencrypt
-      - web-root:/var/www/html
-    depends_on:
-      - webserver
-    command: certonly --webroot --webroot-path=/var/www/html --email reyhanjovie01@gmail.com --agree-tos --no-eff-email --staging -d 103.214.113.109  -d www.103.214.113.109.com
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/logs:/var/log/letsencrypt
+      - ./certbot/data:/usr/share/nginx/html/letsencrypt
 
-volumes:
-  certbot-etc:
-  certbot-var:
-  web-root:
-    driver: local
-    driver_opts:
-      type: none
-      device: /home/sammy/node_project/views/
-      o: bind
-
-networks:
-  app-network:
-    driver: bridge
