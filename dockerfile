@@ -2,6 +2,8 @@ FROM node:alpine
 
 COPY db.json /app/db/db.json
 
-RUN npm install -g json-server
+RUN yarn global add json-server
 
-CMD ["json-server", "--watch", "/app/db/db.json"]
+EXPOSE 3000
+
+CMD ["json-server", "-H","0.0.0.0", "/app/db/db.json"]
