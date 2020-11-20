@@ -1,7 +1,7 @@
 {
     "users" : [
         {
-            "_id" : 1, 
+            "id" : 1, 
             "u_name" : "Reyhan", 
             "u_username" : "reyhan", 
             "u_pass":"password",
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "_id" : 2, 
+            "id" : 2, 
             "u_name" : "Jovie", 
             "u_username" : "jovie", 
             "u_pass":"password",
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "_id" : 3, 
+            "id" : 3, 
             "u_name" : "Dwiputra", 
             "u_username" : "dwiputra", 
             "u_pass":"password",
