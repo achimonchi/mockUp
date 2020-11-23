@@ -17,15 +17,43 @@
             "todo" : [
                 "Ngoding"
             ]
+        }
+    ],
+    "products" : [
+        {
+            "id" : 1,
+            "p_name" : "Obat Batuk",
+            "p_stock" : 30
         },
         {
-            "id" : 3, 
-            "u_name" : "Dwiputra", 
-            "u_username" : "dwiputra", 
-            "u_pass":"password",
-            "todo" : [
-                "Makan", "Minum", "Tidur"
-            ]
+            "id" : 2,
+            "p_name" : "Obat Sakit Hati",
+            "p_stock" : 30
+        },
+        {
+            "id" : 3,
+            "p_name" : "Obat Demam",
+            "p_stock" : 30
+        },
+        {
+            "id" : 4,
+            "p_name" : "Obat Merah",
+            "p_stock" : 30
+        },
+        {
+            "id" : 5,
+            "p_name" : "Obat Hati",
+            "p_stock" : 30
+        },
+        {
+            "id" : 6,
+            "p_name" : "Obat Ngantuk",
+            "p_stock" : 30
+        },
+        {
+            "id" : 7,
+            "p_name" : "Obat Pilek",
+            "p_stock" : 30
         }
-    ]    
+    ]
 }
